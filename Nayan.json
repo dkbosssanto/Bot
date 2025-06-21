@@ -1,5 +1,5 @@
 {
-  "author": "Nayan",
+  "author": "Santo",
   "autoRestart": true,
   "accpetPending": false,
   "developermode": false,
@@ -9,18 +9,18 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "nayan-bot",
+  "BOTNAME": "𓆩⏤͟͞🇧🇩𝘿𝙆_𝘽𝙊𝙎𝙎⏤͟͞🇸🇩ㄔ",
   "PREFIX": "/",
   "react": "☠️",
   "OPERATOR": [
-    "",
-    "100000959749712"
+    "61576909373084",
+    "100010217222695"
   ],
   "ADMINBOT": [
     "100000959749712",
-    ""
+    "61555113385031"
   ],
-  "OWNER": ["100000959749712"], 
+  "OWNER": ["61573411023776"], 
   "APPROVED": [],
   "disabledcmds": [],
   "disabledevents": [],
